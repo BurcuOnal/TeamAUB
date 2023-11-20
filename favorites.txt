@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 kuzuların sessizliği
 yeşil yol
 yüzüklerin efendisi
+=======
+iskender
+kebap
+kuzu tandır
+>>>>>>> movies
